@@ -63,4 +63,4 @@ The goal of this project was to practice frontend fundamentals and improve layou
 ## 👨‍💻 Author
 
 Tan Tran Thanh
-Aspiring Backend Developer | ERP Business Analyst
+Aspiring Fullstack Developer | ERP Business Analyst
