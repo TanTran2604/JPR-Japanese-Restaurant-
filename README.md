@@ -3,7 +3,7 @@
 JPR (Japanese Restaurant) is a responsive restaurant website built to showcase menu items, branding, and basic restaurant information in a clean and modern layout.
 
 ## 🌐 Live Demo
-🔗 https://tantran2604.github.io/JPR-Japanese-Restaurant-/menu.html
+🔗 https://tantran2604.github.io/JPR-Japanese-Restaurant-/index.html
 
 ---
 
